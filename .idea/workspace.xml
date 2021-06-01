@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="06503db3-a314-47af-8c02-7fede2e49260" name="默认变更列表" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/Bullet.java" afterDir="false" />
+    <list default="true" id="06503db3-a314-47af-8c02-7fede2e49260" name="默认变更列表" comment="设置子弹">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/GameFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/GameFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Bullet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Bullet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/GamePanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/GamePanel.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,8 +87,16 @@
       <workItem from="1622379306802" duration="2988000" />
       <workItem from="1622515760197" duration="789000" />
       <workItem from="1622516747407" duration="761000" />
-      <workItem from="1622529832786" duration="2699000" />
+      <workItem from="1622529832786" duration="3352000" />
     </task>
+    <task id="LOCAL-00001" summary="设置子弹">
+      <created>1622543825177</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1622543825177</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,5 +112,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="设置子弹" />
+    <option name="LAST_COMMIT_MESSAGE" value="设置子弹" />
   </component>
 </project>

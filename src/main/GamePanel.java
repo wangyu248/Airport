@@ -1,6 +1,7 @@
 package main;
 
 import java.awt.Graphics;
+import java.util.HashMap;
 import javax.swing.JFrame;
 import javax.swing.JPanel;
 /*
