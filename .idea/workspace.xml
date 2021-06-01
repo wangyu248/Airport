@@ -2,19 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06503db3-a314-47af-8c02-7fede2e49260" name="默认变更列表" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AirportFighting" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AirportFighting.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/AirportFighting/main/GameFrame.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/AirportFighting/main/GamePanel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/AirportFighting/main/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/GameFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/GamePanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Bullet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/GameFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/GameFrame.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +21,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/GamePanel.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/Main.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/GameFrame.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/out/production/AirportFighting/main/GameFrame.class" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectId" id="1tFycAYaFTH8xaBi5GgNrO8QJri" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -42,6 +38,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/plane" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="模块" />
     <property name="project.structure.proportion" value="0.0" />
@@ -87,11 +84,25 @@
       <option name="presentableId" value="Default" />
       <updated>1622379211629</updated>
       <workItem from="1622379216004" duration="67000" />
-      <workItem from="1622379306802" duration="1911000" />
+      <workItem from="1622379306802" duration="2988000" />
+      <workItem from="1622515760197" duration="789000" />
+      <workItem from="1622516747407" duration="761000" />
+      <workItem from="1622529832786" duration="2699000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

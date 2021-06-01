@@ -12,6 +12,6 @@ public class GameFrame extends JFrame {
         setLayout(new BorderLayout());  /*开辟一个新窗体*/
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); /*关闭窗体*/
         /*setLocation(null);  *//*设置窗体位置*/
-        setResizable(true); /*允许窗体被修改*/
+        setResizable(false); /*允许窗体被修改*/
     }
 }
