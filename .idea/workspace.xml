@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="06503db3-a314-47af-8c02-7fede2e49260" name="默认变更列表" comment="设置飞机">
+    <list default="true" id="06503db3-a314-47af-8c02-7fede2e49260" name="默认变更列表" comment="try">
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AirportFighting.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Airport.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/MyPlane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/MyPlane.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Airport.iml" beforeDir="false" afterPath="$PROJECT_DIR$/AirportFighting.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +20,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/main/GamePanel.java" root0="FORCE_HIGHLIGHTING" />
@@ -48,7 +48,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.Main" />
-      <module name="Airport" />
+      <module name="AirportFighting" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="main.*" />
@@ -66,19 +66,6 @@
         </value>
       </option>
       <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="Airport" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="Airport" />
-      <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -101,7 +88,7 @@
       <workItem from="1622379306802" duration="2988000" />
       <workItem from="1622515760197" duration="789000" />
       <workItem from="1622516747407" duration="761000" />
-      <workItem from="1622529832786" duration="3955000" />
+      <workItem from="1622529832786" duration="5874000" />
     </task>
     <task id="LOCAL-00001" summary="设置子弹">
       <created>1622543825177</created>
@@ -124,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1622544880067</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="try">
+      <created>1622545068570</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1622545068570</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -144,6 +138,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="设置子弹" />
     <MESSAGE value="设置飞机" />
-    <option name="LAST_COMMIT_MESSAGE" value="设置飞机" />
+    <MESSAGE value="try" />
+    <option name="LAST_COMMIT_MESSAGE" value="try" />
   </component>
 </project>
